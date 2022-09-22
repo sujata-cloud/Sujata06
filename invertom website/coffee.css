@@ -1,0 +1,98 @@
+.inventorm-header{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+	background-color: white;
+}
+.container{
+	width: 100%;
+	height: 100px;
+}
+
+.div-logo{
+	margin: 20px;
+	height: 100%;
+}
+.inventorm-nav{
+	float: right;
+	height: 100%;
+}
+.inventorm-nav a{
+	font-size: 20px;
+	color: black;
+	font-family: "sans-serif";
+	padding-right: 20px;
+}
+body{
+	margin: 0px;
+}
+.site-content{
+	position: absolute;
+	top:78px;
+	width: 100%;
+}
+.image-content{
+background-image: url("background-layer.png");
+height: 400px;
+width: 100%;
+text-align: center;
+
+}
+#about{
+	text-align: center;
+	}
+.card-list{
+	width: 100%;
+}
+.card{
+	width: 40%;
+	padding:5%;
+	height: 500px;
+	text-align:left;
+	float: left;
+}
+.card img{
+	width: 100%;
+	display: inline-block;
+}
+#Awards{
+	text-align: center;
+}
+	
+.pic{
+	width: 22%;
+	padding: 1%;
+	text-align: left;
+	float: left;
+
+}
+.pic img{
+	width: 100%;
+	display: inline-block;
+}.card-list2{
+	width: 100%;
+}
+.card-list3{
+	width: 100%;
+}
+.section-title{
+	margin-top:500px;
+	text-align: center;
+	color: green;
+}
+.right-col{
+	margin-left: 50px;
+	width: 400%;
+	float: right;
+}
+.footer{
+	background-color: #139139;
+	height: 100px;
+	margin-top: 600px;
+}
+
+
+.footer-design{
+	padding-left: 250px;
+}
